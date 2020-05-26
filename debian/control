@@ -1,0 +1,12 @@
+Source: python3-waitress
+Maintainer: Ultra Horizon Ltd <engineering@ultra-horizon.com>
+Build-Depends: debhelper, dh-python, python3-all, python3-setuptools
+Section: net
+Priority: optional
+Standards-Version: 4.5.0
+X-Python3-Version: >= 3.6
+
+Package: python3-waitress
+Architecture: all
+Description: Waitress WSGI server.
+Depends: ${python3:Depends}

@@ -1,0 +1,5 @@
+python3-waitress (1.4.3-BETA-1) bionic; urgency=medium
+
+  * Beta test builds for waitress v1.4.3.
+
+ -- James Webb <james.webb@bristol.ac.uk>  Tue, 7 May 2020 22:21:00 +0000
